@@ -16,8 +16,8 @@ forward_map = {}
 
 # ====== КОМАНДЫ ======
 REPLIES = {
-    '!правила': "📜 <b>Правила чата:</b>\nhttps://example.com/rules",
-    #'!faq':     "❓ <b>FAQ:</b>\nhttps://example.com/faq",
+    '!правила': "📜 <b>Правила чата:</b>\nhttps://teletype.in/@seventhpass/TgRulesSP",
+    #'!сервер':     "🔥 <b>Наш сервер:</b>\nhttps://seventhpass.site/",
     #'!админы':  "👮 <b>Администрация:</b>\n@admin1, @admin2",
 }
 
