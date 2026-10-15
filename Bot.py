@@ -1,6 +1,11 @@
+import os
+from dotenv import load_dotenv
 import telebot
 
-BOT_TOKEN = '8865048374:AAG3yzpj9o7seJmaQnkxl-FTCdrYSTDOPVc'
+load_dotenv()
+BOT_TOKEN = os.getenv('BOT_TOKEN')
+
+bot = telebot.TeleBot(BOT_TOKEN)
 
 # ⚠️ ID админского чата (с минусом, например -1001234567890)
 ADMIN_CHAT_ID = -4611124047
