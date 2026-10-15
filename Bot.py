@@ -1,6 +1,6 @@
 import telebot
 
-BOT_TOKEN = '8865048374:AAE6aYIx1asWB_Xi4wHGA788n1a73ZzK7tg'
+BOT_TOKEN = '8865048374:AAG3yzpj9o7seJmaQnkxl-FTCdrYSTDOPVc'
 
 # ⚠️ ID админского чата (с минусом, например -1001234567890)
 ADMIN_CHAT_ID = -4611124047
